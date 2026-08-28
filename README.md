@@ -1,40 +1,8 @@
-# DSA Practice Journey 🚀
+🚀 DSA Practice Journey
 
-My journey of learning and practicing **Data Structures & Algorithms** through LeetCode.
+A pattern-based DSA roadmap for beginners to build a strong problem-solving foundation.
 
-This repository contains the problems I solve, my solutions, and the DSA patterns I learn along the way.
-
-## 🧠 Topics
-
-* Arrays
-* String
-* Hashing
-* Two Pointers
-* Sliding Window
-* Stack & Queue
-* Binary Search
-* Linked List
-* Trees
-* Heap
-* Graphs
-* Recursion
-* Backtracking
-* Dynamic Programming
-* Greedy
-
-## 🎯 Goal
-
-**Understand patterns, not memorize solutions.**
-
-I am using this repository to:
-
-* Practice consistently
-* Identify common DSA patterns
-* Improve problem-solving
-* Track my progress
----
-
-### 🚀 One Problem at a Time.
+The goal is not to memorize solutions, but to recognize patterns and understand when and why to use them.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
