@@ -4,6 +4,14 @@ A pattern-based DSA roadmap for beginners to build a strong problem-solving foun
 
 The goal is not to memorize solutions, but to recognize patterns and understand when and why to use them.
 
+📌 About this Roadmap
+
+This roadmap contains mostly Easy-level problems from across all  DSA topics, organized pattern-wise and in a beginner-friendly order.
+
+The focus is on building a strong foundation step by step to master  problem solving.
+
+Learn the pattern → Practice the pattern → Recognize the pattern → Build confidence.
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
