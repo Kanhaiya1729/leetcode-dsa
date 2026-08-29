@@ -19,6 +19,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1207-unique-number-of-occurrences](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1748-sum-of-unique-elements) |
@@ -43,4 +44,5 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
