@@ -44,6 +44,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0844-backspace-string-compare](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Counting
 |  |
 | ------- |
@@ -82,4 +83,9 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
+## Math
+|  |
+| ------- |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
 <!---LeetCode Topics End-->
