@@ -26,6 +26,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [1207-unique-number-of-occurrences](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1748-sum-of-unique-elements](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1748-sum-of-unique-elements) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0088-merge-sorted-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +85,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Math
 |  |
