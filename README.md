@@ -24,6 +24,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0303-range-sum-query-immutable](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0303-range-sum-query-immutable) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0724-find-pivot-index) |
 | [1052-grumpy-bookstore-owner](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1052-grumpy-bookstore-owner) |
 | [1207-unique-number-of-occurrences](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -104,4 +105,5 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
