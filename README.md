@@ -33,6 +33,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [2090-k-radius-subarray-averages](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/2090-k-radius-subarray-averages) |
+| [2574-left-and-right-sum-differences](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,4 +111,5 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0724-find-pivot-index](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
