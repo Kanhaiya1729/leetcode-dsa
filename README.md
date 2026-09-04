@@ -26,6 +26,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0643-maximum-average-subarray-i](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0724-find-pivot-index) |
 | [0905-sort-array-by-parity](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
+| [0976-largest-perimeter-triangle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0976-largest-perimeter-triangle) |
 | [1052-grumpy-bookstore-owner](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1052-grumpy-bookstore-owner) |
 | [1207-unique-number-of-occurrences](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -76,6 +77,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
+| [0976-largest-perimeter-triangle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0976-largest-perimeter-triangle) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Dynamic Programming
 |  |
@@ -103,6 +105,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Math
 |  |
 | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0976-largest-perimeter-triangle) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Design
@@ -118,4 +121,16 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [1732-find-the-highest-altitude](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/2574-left-and-right-sum-differences) |
+## Greedy
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0976-largest-perimeter-triangle) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
