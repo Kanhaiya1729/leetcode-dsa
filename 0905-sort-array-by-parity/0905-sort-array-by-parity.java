@@ -14,11 +14,11 @@ class Solution {
                 int temp=nums[right];
                 nums[right]=nums[left];
                 nums[left]=temp;
+                left++;
                 right--;
                 
             }
-       
-            
+         
          }
          return nums;
         
