@@ -30,6 +30,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0976-largest-perimeter-triangle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1051-height-checker) |
 | [1052-grumpy-bookstore-owner](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1052-grumpy-bookstore-owner) |
+| [1122-relative-sort-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -44,6 +45,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | ------- |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0771-jewels-and-stones) |
+| [1122-relative-sort-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -83,6 +85,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0922-sort-array-by-parity-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0976-largest-perimeter-triangle) |
 | [1051-height-checker](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1122-relative-sort-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Dynamic Programming
 |  |
@@ -134,6 +137,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0976-largest-perimeter-triangle) |
+| [1122-relative-sort-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1122-relative-sort-array) |
 ## Polygons
 |  |
 | ------- |
@@ -142,8 +146,10 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
