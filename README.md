@@ -161,8 +161,13 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0035-search-insert-position](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0374-guess-number-higher-or-lower) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0069-sqrtx) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
