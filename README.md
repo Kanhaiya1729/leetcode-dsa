@@ -114,6 +114,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0069-sqrtx) |
 | [0976-largest-perimeter-triangle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0976-largest-perimeter-triangle) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -157,4 +158,9 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
