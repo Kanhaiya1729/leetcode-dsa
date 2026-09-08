@@ -27,6 +27,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0303-range-sum-query-immutable](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0303-range-sum-query-immutable) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -102,10 +103,12 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0155-min-stack) |
+| [0682-baseball-game](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0844-backspace-string-compare) |
 ## Sliding Window
 |  |
