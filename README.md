@@ -101,6 +101,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0155-min-stack) |
 | [0844-backspace-string-compare](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
@@ -128,6 +129,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
