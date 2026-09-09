@@ -67,6 +67,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [1021-remove-outermost-parentheses](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1544-make-the-string-great](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -110,6 +111,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0844-backspace-string-compare](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1544-make-the-string-great](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Simulation
 |  |
