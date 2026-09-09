@@ -104,6 +104,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0392-is-subsequence) |
+| [0509-fibonacci-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -137,6 +138,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | ------- |
 | [0069-sqrtx](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0367-valid-perfect-square) |
+| [0509-fibonacci-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0976-largest-perimeter-triangle) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -212,4 +214,12 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0496-next-greater-element-i) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
