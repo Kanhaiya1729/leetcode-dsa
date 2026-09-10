@@ -147,6 +147,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | ------- |
 | [0155-min-stack](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0303-range-sum-query-immutable) |
+| [0933-number-of-recent-calls](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0933-number-of-recent-calls) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -222,4 +223,12 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0509-fibonacci-number) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
