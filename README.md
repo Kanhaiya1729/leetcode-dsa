@@ -27,6 +27,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0303-range-sum-query-immutable](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0303-range-sum-query-immutable) |
 | [0496-next-greater-element-i](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0622-design-circular-queue](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0724-find-pivot-index) |
@@ -149,6 +150,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0155-min-stack](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0303-range-sum-query-immutable) |
+| [0622-design-circular-queue](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0933-number-of-recent-calls) |
 ## Prefix Sum
 |  |
@@ -229,9 +231,14 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0225-implement-stack-using-queues) |
+| [0622-design-circular-queue](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0933-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
