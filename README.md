@@ -222,6 +222,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -241,6 +242,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
