@@ -91,6 +91,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0345-reverse-vowels-of-a-string](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0392-is-subsequence) |
 | [0844-backspace-string-compare](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0844-backspace-string-compare) |
+| [0876-middle-of-the-linked-list](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0922-sort-array-by-parity-ii) |
 ## Sorting
@@ -248,6 +249,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0141-linked-list-cycle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0622-design-circular-queue) |
+| [0876-middle-of-the-linked-list](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
