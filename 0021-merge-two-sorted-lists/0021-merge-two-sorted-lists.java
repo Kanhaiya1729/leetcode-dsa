@@ -38,26 +38,5 @@ class Solution {
             
                return dumy.next;
         }
-        
-    public ListNode mergesort(ListNode list){
-        if(list==null || list.next==null){
-            return list;
-        }
-        ListNode mid=getMid(list);
-        ListNode righthead=mid.next;
-        mid.next=null;
-        ListNode newLeft=mergesort(list);
-        ListNode newRight=mergesort(righthead);
-        return mergeTwoLists(newLeft,newRight);
-    }
 
-    public ListNode getMid(ListNode list){
-        ListNode slow=list;
-        ListNode fast=list.next;
-        while(slow!=null && fast.next!=null){
-            slow=slow.next;
-            fast=fast.next.next;
-        }
-        return slow;
-    }
 }
