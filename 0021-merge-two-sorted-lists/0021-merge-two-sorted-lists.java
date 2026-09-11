@@ -54,7 +54,7 @@ class Solution {
     public ListNode getMid(ListNode list){
         ListNode slow=list;
         ListNode fast=list.next;
-        while(slow!=null && fast!=null){
+        while(slow!=null && fast.next!=null){
             slow=slow.next;
             fast=fast.next.next;
         }
