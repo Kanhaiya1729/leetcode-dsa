@@ -271,6 +271,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Backtracking
 |  |
 | ------- |
+| [0077-combinations](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0077-combinations) |
 | [0401-binary-watch](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0401-binary-watch) |
 | [0784-letter-case-permutation](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
