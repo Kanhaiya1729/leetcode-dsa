@@ -267,4 +267,12 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0141-linked-list-cycle) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0401-binary-watch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
