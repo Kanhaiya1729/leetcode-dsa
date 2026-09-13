@@ -68,6 +68,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0392-is-subsequence](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0392-is-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0771-jewels-and-stones) |
+| [0784-letter-case-permutation](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0784-letter-case-permutation) |
 | [0844-backspace-string-compare](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -271,8 +272,10 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0401-binary-watch) |
+| [0784-letter-case-permutation](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0401-binary-watch) |
+| [0784-letter-case-permutation](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
