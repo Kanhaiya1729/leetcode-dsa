@@ -21,6 +21,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0027-remove-element](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0283-move-zeroes) |
@@ -273,11 +274,13 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0077-combinations](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0401-binary-watch) |
 | [0784-letter-case-permutation](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0401-binary-watch) |
 | [0784-letter-case-permutation](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0784-letter-case-permutation) |
 <!---LeetCode Topics End-->
