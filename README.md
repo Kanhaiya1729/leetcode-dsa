@@ -55,6 +55,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0202-happy-number) |
 | [0496-next-greater-element-i](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0771-jewels-and-stones) |
@@ -93,6 +94,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0088-merge-sorted-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
@@ -152,6 +154,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0007-reverse-integer](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0202-happy-number) |
 | [0367-valid-perfect-square](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0976-largest-perimeter-triangle) |
@@ -272,6 +275,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0202-happy-number) |
 ## Backtracking
 |  |
 | ------- |
