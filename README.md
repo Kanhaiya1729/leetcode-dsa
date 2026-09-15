@@ -149,6 +149,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0367-valid-perfect-square) |
