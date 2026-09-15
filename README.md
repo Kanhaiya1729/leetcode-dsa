@@ -35,6 +35,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0724-find-pivot-index](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0976-largest-perimeter-triangle) |
@@ -137,6 +138,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | ------- |
 | [0682-baseball-game](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0867-transpose-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -295,4 +297,8 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0191-number-of-1-bits) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
