@@ -27,6 +27,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0303-range-sum-query-immutable) |
+| [0455-assign-cookies](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0622-design-circular-queue](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0622-design-circular-queue) |
@@ -101,6 +102,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0283-move-zeroes](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0455-assign-cookies) |
 | [0832-flipping-an-image](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0876-middle-of-the-linked-list) |
@@ -110,6 +112,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0088-merge-sorted-array) |
+| [0455-assign-cookies](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0976-largest-perimeter-triangle) |
@@ -185,10 +188,12 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0976-largest-perimeter-triangle) |
 ## Quicksort
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0976-largest-perimeter-triangle) |
 | [1122-relative-sort-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1122-relative-sort-array) |
 ## Polygons
