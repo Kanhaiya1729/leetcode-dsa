@@ -10,7 +10,7 @@ class Solution {
                 i++;
             }else{
                  sum+= truckSize*boxTypes[i][1];
-                  truckSize-= boxTypes[i][0];
+                  truckSize=0;
                  
             }
 
