@@ -50,6 +50,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [1207-unique-number-of-occurrences](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1710-maximum-units-on-a-truck](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1732-find-the-highest-altitude) |
 | [1748-sum-of-unique-elements](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1748-sum-of-unique-elements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -122,6 +123,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1122-relative-sort-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1710-maximum-units-on-a-truck) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Dynamic Programming
 |  |
@@ -198,6 +200,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0860-lemonade-change](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1710-maximum-units-on-a-truck](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1710-maximum-units-on-a-truck) |
 ## Quicksort
 |  |
 | ------- |
