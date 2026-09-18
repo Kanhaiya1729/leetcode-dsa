@@ -32,6 +32,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0455-assign-cookies](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0605-can-place-flowers](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0682-baseball-game) |
@@ -200,6 +201,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1005-maximize-sum-of-array-after-k-negations) |
