@@ -53,6 +53,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [1122-relative-sort-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1572-matrix-diagonal-sum](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1710-maximum-units-on-a-truck](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1710-maximum-units-on-a-truck) |
 | [1732-find-the-highest-altitude](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1732-find-the-highest-altitude) |
@@ -329,6 +330,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0766-toeplitz-matrix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0867-transpose-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1572-matrix-diagonal-sum) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
