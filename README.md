@@ -141,6 +141,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
@@ -340,11 +341,13 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -355,4 +358,5 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
