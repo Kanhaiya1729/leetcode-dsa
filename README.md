@@ -25,6 +25,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0046-permutations](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0283-move-zeroes](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0283-move-zeroes) |
@@ -324,6 +325,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0191-number-of-1-bits) |
 ## Matrix
 |  |
@@ -341,6 +343,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
@@ -364,6 +367,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
@@ -371,5 +375,6 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
