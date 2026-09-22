@@ -54,6 +54,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [1052-grumpy-bookstore-owner](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1052-grumpy-bookstore-owner) |
 | [1122-relative-sort-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1207-unique-number-of-occurrences) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1572-matrix-diagonal-sum](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1572-matrix-diagonal-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
@@ -131,6 +132,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1122-relative-sort-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1710-maximum-units-on-a-truck](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1710-maximum-units-on-a-truck) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Dynamic Programming
@@ -244,6 +246,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0374-guess-number-higher-or-lower](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Newton's Method
 |  |
 | ------- |
@@ -336,6 +339,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0766-toeplitz-matrix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0867-transpose-matrix) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1572-matrix-diagonal-sum) |
 ## Longest Increasing Subsequence
 |  |
@@ -403,4 +407,5 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
