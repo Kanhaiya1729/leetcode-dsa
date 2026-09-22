@@ -31,6 +31,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0215-kth-largest-element-in-an-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -72,6 +73,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0141-linked-list-cycle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0202-happy-number) |
+| [0347-top-k-frequent-elements](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0771-jewels-and-stones) |
@@ -100,6 +102,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [1748-sum-of-unique-elements](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
@@ -127,6 +130,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0922-sort-array-by-parity-ii) |
@@ -336,6 +340,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -409,6 +414,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -416,4 +422,9 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
