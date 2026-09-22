@@ -49,6 +49,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0944-delete-columns-to-make-sorted](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0944-delete-columns-to-make-sorted) |
 | [0976-largest-perimeter-triangle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1046-last-stone-weight](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1051-height-checker) |
 | [1052-grumpy-bookstore-owner](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1052-grumpy-bookstore-owner) |
 | [1122-relative-sort-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1122-relative-sort-array) |
@@ -401,4 +402,5 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
