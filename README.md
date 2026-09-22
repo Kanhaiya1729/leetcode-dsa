@@ -190,6 +190,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0225-implement-stack-using-queues](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0303-range-sum-query-immutable) |
 | [0622-design-circular-queue](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0622-design-circular-queue) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0933-number-of-recent-calls) |
 ## Prefix Sum
 |  |
@@ -286,6 +287,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Data Stream
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0933-number-of-recent-calls) |
 ## Linked List
 |  |
@@ -351,6 +353,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0226-invert-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -383,13 +386,19 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0226-invert-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0543-diameter-of-binary-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
