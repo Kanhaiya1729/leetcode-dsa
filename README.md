@@ -341,6 +341,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -352,6 +353,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0112-path-sum) |
@@ -360,6 +362,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -367,6 +370,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
