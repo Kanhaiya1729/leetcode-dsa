@@ -4,13 +4,14 @@ class Solution {
        PriorityQueue<Integer>pq=new PriorityQueue<>();
        for(int x: nums){
         pq.add(x);
+        if(pq.size()>k){
+            pq.remove();
+        }
+    
 
-       }
-       while(pq.size()>k){
-        pq.remove();
        }
        return pq.peek();
-
+    
 
         
     }
