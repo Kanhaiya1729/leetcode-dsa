@@ -51,6 +51,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0922-sort-array-by-parity-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0944-delete-columns-to-make-sorted) |
 | [0976-largest-perimeter-triangle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0976-largest-perimeter-triangle) |
+| [0997-find-the-town-judge](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0997-find-the-town-judge) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1046-last-stone-weight](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1051-height-checker) |
@@ -78,6 +79,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0496-next-greater-element-i](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0771-jewels-and-stones) |
+| [0997-find-the-town-judge](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0997-find-the-town-judge) |
 | [1122-relative-sort-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1122-relative-sort-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1748-sum-of-unique-elements) |
@@ -440,5 +442,6 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Graph Theory
 |  |
 | ------- |
+| [0997-find-the-town-judge](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
