@@ -382,6 +382,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0226-invert-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0733-flood-fill) |
+| [0841-keys-and-rooms](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -393,6 +394,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0112-path-sum](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0733-flood-fill) |
+| [0841-keys-and-rooms](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -442,6 +444,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Graph Theory
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
