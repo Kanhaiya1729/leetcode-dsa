@@ -448,4 +448,8 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0997-find-the-town-judge](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
