@@ -52,6 +52,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0922-sort-array-by-parity-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0922-sort-array-by-parity-ii) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0944-delete-columns-to-make-sorted) |
 | [0976-largest-perimeter-triangle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0976-largest-perimeter-triangle) |
+| [0994-rotting-oranges](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0997-find-the-town-judge) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1046-last-stone-weight](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1046-last-stone-weight) |
@@ -353,6 +354,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0766-toeplitz-matrix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1572-matrix-diagonal-sum) |
 ## Longest Increasing Subsequence
@@ -399,6 +401,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0226-invert-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
