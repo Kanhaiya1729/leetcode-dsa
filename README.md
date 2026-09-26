@@ -40,6 +40,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0622-design-circular-queue](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0682-baseball-game) |
+| [0695-max-area-of-island](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0695-max-area-of-island) |
 | [0724-find-pivot-index](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -350,6 +351,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0832-flipping-an-image) |
@@ -386,6 +388,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0200-number-of-islands](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
@@ -399,6 +402,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0112-path-sum](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0994-rotting-oranges) |
@@ -448,6 +452,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
