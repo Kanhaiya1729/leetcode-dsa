@@ -28,6 +28,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0200-number-of-islands](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0303-range-sum-query-immutable) |
@@ -347,6 +348,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0832-flipping-an-image) |
@@ -379,6 +381,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0111-minimum-depth-of-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0733-flood-fill) |
@@ -392,6 +395,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0104-maximum-depth-of-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0226-invert-binary-tree) |
 | [0733-flood-fill](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0841-keys-and-rooms) |
@@ -440,6 +444,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
