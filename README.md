@@ -44,6 +44,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0724-find-pivot-index](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0733-flood-fill) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0766-toeplitz-matrix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -154,6 +155,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0746-min-cost-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
