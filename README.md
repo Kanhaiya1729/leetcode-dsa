@@ -26,6 +26,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0078-subsets](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0200-number-of-islands) |
@@ -152,6 +153,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0509-fibonacci-number) |
