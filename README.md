@@ -23,6 +23,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -181,6 +182,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0844-backspace-string-compare) |
@@ -364,6 +366,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0200-number-of-islands](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0733-flood-fill) |
