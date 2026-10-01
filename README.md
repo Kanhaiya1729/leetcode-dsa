@@ -492,6 +492,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0595-big-countries](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0595-big-countries) |
 | [0596-classes-with-at-least-5-students](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0596-classes-with-at-least-5-students) |
 | [0610-triangle-judgement](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0610-triangle-judgement) |
+| [0620-not-boring-movies](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1148-article-views-i](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1148-article-views-i) |
 | [1527-patients-with-a-condition](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1527-patients-with-a-condition) |
