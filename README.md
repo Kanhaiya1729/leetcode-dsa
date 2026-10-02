@@ -497,6 +497,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0620-not-boring-movies](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0620-not-boring-movies) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1148-article-views-i](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1148-article-views-i) |
+| [1251-average-selling-price](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1251-average-selling-price) |
 | [1527-patients-with-a-condition](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1527-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1729-find-followers-count) |
