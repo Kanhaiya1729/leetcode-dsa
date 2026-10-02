@@ -40,6 +40,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0347-top-k-frequent-elements](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0496-next-greater-element-i) |
+| [0518-coin-change-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0518-coin-change-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0605-can-place-flowers) |
 | [0622-design-circular-queue](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0622-design-circular-queue) |
@@ -164,6 +165,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0322-coin-change](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1137-n-th-tribonacci-number) |
 ## Stack
@@ -504,8 +506,10 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
