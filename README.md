@@ -503,6 +503,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [1251-average-selling-price](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1251-average-selling-price) |
 | [1527-patients-with-a-condition](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1527-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1683-invalid-tweets) |
+| [1693-daily-leads-and-partners](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1693-daily-leads-and-partners) |
 | [1729-find-followers-count](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1873-calculate-special-bonus) |
