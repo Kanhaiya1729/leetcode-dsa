@@ -502,6 +502,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [1193-monthly-transactions-i](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1251-average-selling-price) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1527-patients-with-a-condition](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1527-patients-with-a-condition) |
 | [1683-invalid-tweets](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1683-invalid-tweets) |
 | [1693-daily-leads-and-partners](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1693-daily-leads-and-partners) |
