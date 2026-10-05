@@ -187,6 +187,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0844-backspace-string-compare) |
@@ -210,6 +211,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0069-sqrtx](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0976-largest-perimeter-triangle) |
@@ -525,4 +527,8 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | ------- |
 | [0322-coin-change](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0518-coin-change-ii) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
