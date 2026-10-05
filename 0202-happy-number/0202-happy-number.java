@@ -1,7 +1,7 @@
 class Solution {
     public boolean isHappy(int n) {
-    HashSet<Integer>set=new HashSet<>();
-       while(n!=1){
+        HashSet<Integer>set=new HashSet<>();
+        while(n!=1){
         if(set.contains(n)){
             return false;
         }
@@ -10,16 +10,12 @@ class Solution {
         while(n!=0){
             int lastdigit=n%10;
             sum+=lastdigit*lastdigit;
-            n/=10;
-
+            n=n/10;
         }
         n=sum;
-        
-       }
-       return true;
-        
- 
-    
+        }
+        return true;
 
+        
     }
 }
