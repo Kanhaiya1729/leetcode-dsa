@@ -213,6 +213,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0202-happy-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0258-add-digits) |
+| [0326-power-of-three](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0976-largest-perimeter-triangle) |
@@ -314,6 +315,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0206-reverse-linked-list](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
