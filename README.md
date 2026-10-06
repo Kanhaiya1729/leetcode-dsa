@@ -98,6 +98,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0171-excel-sheet-column-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0412-fizz-buzz) |
@@ -212,6 +213,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0009-palindrome-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0070-climbing-stairs) |
+| [0171-excel-sheet-column-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0258-add-digits) |
