@@ -24,6 +24,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0035-search-insert-position](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -212,6 +213,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | ------- |
 | [0007-reverse-integer](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0171-excel-sheet-column-number) |
