@@ -100,6 +100,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0020-valid-parentheses](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0771-jewels-and-stones](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0771-jewels-and-stones) |
 | [0784-letter-case-permutation](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0784-letter-case-permutation) |
@@ -188,6 +189,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | ------- |
 | [0054-spiral-matrix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0844-backspace-string-compare) |
@@ -216,6 +218,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0326-power-of-three](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0367-valid-perfect-square) |
+| [0412-fizz-buzz](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0509-fibonacci-number) |
 | [0976-largest-perimeter-triangle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0976-largest-perimeter-triangle) |
 | [1137-n-th-tribonacci-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1137-n-th-tribonacci-number) |
