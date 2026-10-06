@@ -211,6 +211,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0069-sqrtx](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0258-add-digits) |
 | [0367-valid-perfect-square](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0509-fibonacci-number) |
@@ -311,6 +312,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0021-merge-two-sorted-lists](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -362,6 +364,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | ------- |
 | [0078-subsets](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0231-power-of-two) |
 | [0401-binary-watch](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0401-binary-watch) |
 | [0784-letter-case-permutation](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0784-letter-case-permutation) |
 | [0832-flipping-an-image](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0832-flipping-an-image) |
