@@ -218,6 +218,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0069-sqrtx](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0231-power-of-two) |
