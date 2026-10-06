@@ -231,6 +231,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [1137-n-th-tribonacci-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1492-the-kth-factor-of-n](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1492-the-kth-factor-of-n) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1952-three-divisors](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1952-three-divisors) |
@@ -555,6 +556,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | ------- |
 | [0204-count-primes](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0258-add-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Enumeration
@@ -586,5 +588,6 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Prime Factorization
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
