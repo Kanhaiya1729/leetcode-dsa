@@ -547,6 +547,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [1729-find-followers-count](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1873-calculate-special-bonus) |
+| [1907-count-salary-categories](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1907-count-salary-categories) |
 ## Knapsack Problem
 |  |
 | ------- |
