@@ -85,6 +85,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0202-happy-number) |
@@ -100,6 +101,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0171-excel-sheet-column-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
@@ -214,6 +216,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | ------- |
 | [0007-reverse-integer](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0070-climbing-stairs) |
