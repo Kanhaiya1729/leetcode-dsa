@@ -226,6 +226,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0204-count-primes](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0258-add-digits) |
+| [0319-bulb-switcher](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0367-valid-perfect-square) |
@@ -594,4 +595,8 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1952-three-divisors) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
