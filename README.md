@@ -519,6 +519,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0177-nth-highest-salary) |
 | [0183-customers-who-never-order](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0196-delete-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0570-managers-with-at-least-5-direct-reports) |
