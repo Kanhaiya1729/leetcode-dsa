@@ -66,6 +66,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0997-find-the-town-judge](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0997-find-the-town-judge) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1046-last-stone-weight](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1046-last-stone-weight) |
+| [1049-last-stone-weight-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1049-last-stone-weight-ii) |
 | [1051-height-checker](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1051-height-checker) |
 | [1052-grumpy-bookstore-owner](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1052-grumpy-bookstore-owner) |
 | [1122-relative-sort-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1122-relative-sort-array) |
@@ -174,6 +175,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0509-fibonacci-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0746-min-cost-climbing-stairs) |
+| [1049-last-stone-weight-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1137-n-th-tribonacci-number) |
 ## Stack
 |  |
@@ -555,6 +557,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | ------- |
 | [0322-coin-change](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0518-coin-change-ii) |
+| [1049-last-stone-weight-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -607,4 +610,8 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1114-print-in-order) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [1049-last-stone-weight-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
