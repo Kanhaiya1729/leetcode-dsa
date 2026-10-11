@@ -41,6 +41,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0322-coin-change](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0518-coin-change-ii) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -172,6 +173,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0213-house-robber-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0392-is-subsequence) |
+| [0494-target-sum](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0746-min-cost-climbing-stairs) |
@@ -382,6 +384,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0077-combinations](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0078-subsets) |
 | [0401-binary-watch](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0494-target-sum) |
 | [0784-letter-case-permutation](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0784-letter-case-permutation) |
 ## Bit Manipulation
 |  |
@@ -556,6 +559,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0518-coin-change-ii) |
 | [1049-last-stone-weight-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
@@ -613,5 +617,6 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1049-last-stone-weight-ii) |
 <!---LeetCode Topics End-->
