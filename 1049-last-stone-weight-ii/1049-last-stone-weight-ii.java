@@ -4,7 +4,6 @@ class Solution {
         int sum=0;
         for(int x: stones){
             sum+=x;
-
         }
         int halfSum=sum/2;
         int dp[][]=new int[n+1][halfSum+1];
