@@ -24,6 +24,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0035-search-insert-position](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0088-merge-sorted-array) |
@@ -166,6 +167,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -408,6 +410,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0054-spiral-matrix) |
+| [0064-minimum-path-sum](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0733-flood-fill) |
