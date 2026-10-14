@@ -18,6 +18,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -88,6 +89,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0160-intersection-of-two-linked-lists) |
