@@ -107,6 +107,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0012-integer-to-roman](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0171-excel-sheet-column-number) |
+| [0344-reverse-string](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0412-fizz-buzz) |
@@ -140,6 +141,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0202-happy-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0455-assign-cookies) |
