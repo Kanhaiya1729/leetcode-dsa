@@ -103,6 +103,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0771-jewels-and-stones](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0771-jewels-and-stones) |
 | [0997-find-the-town-judge](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0997-find-the-town-judge) |
 | [1122-relative-sort-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1122-relative-sort-array) |
+| [1189-maximum-number-of-balloons](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1207-unique-number-of-occurrences) |
 | [1748-sum-of-unique-elements](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -125,6 +126,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0944-delete-columns-to-make-sorted](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1544-make-the-string-great](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -134,6 +136,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0347-top-k-frequent-elements) |
+| [1189-maximum-number-of-balloons](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1189-maximum-number-of-balloons) |
 | [1748-sum-of-unique-elements](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Two Pointers
