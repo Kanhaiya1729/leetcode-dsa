@@ -92,6 +92,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0160-intersection-of-two-linked-lists) |
@@ -111,6 +112,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0125-valid-palindrome) |
@@ -227,6 +229,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0643-maximum-average-subarray-i) |
 | [1052-grumpy-bookstore-owner](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
