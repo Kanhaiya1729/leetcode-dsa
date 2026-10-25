@@ -185,6 +185,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0118-pascals-triangle) |
@@ -244,6 +245,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0007-reverse-integer](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0012-integer-to-roman) |
+| [0062-unique-paths](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0070-climbing-stairs) |
@@ -650,4 +652,8 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0416-partition-equal-subset-sum](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0494-target-sum) |
 | [1049-last-stone-weight-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1049-last-stone-weight-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
