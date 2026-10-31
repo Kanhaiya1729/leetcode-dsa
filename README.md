@@ -88,6 +88,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [1991-find-the-middle-index-in-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1991-find-the-middle-index-in-array) |
 | [2090-k-radius-subarray-averages](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/2090-k-radius-subarray-averages) |
 | [2574-left-and-right-sum-differences](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/2574-left-and-right-sum-differences) |
+| [3665-twisted-mirror-path-count](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/3665-twisted-mirror-path-count) |
 ## Hash Table
 |  |
 | ------- |
@@ -202,6 +203,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0746-min-cost-climbing-stairs](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [1049-last-stone-weight-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1137-n-th-tribonacci-number) |
+| [3665-twisted-mirror-path-count](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/3665-twisted-mirror-path-count) |
 ## Stack
 |  |
 | ------- |
@@ -444,6 +446,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0994-rotting-oranges](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0994-rotting-oranges) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1572-matrix-diagonal-sum) |
+| [3665-twisted-mirror-path-count](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/3665-twisted-mirror-path-count) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
