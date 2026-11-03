@@ -91,6 +91,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [2090-k-radius-subarray-averages](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/2090-k-radius-subarray-averages) |
 | [2574-left-and-right-sum-differences](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/2574-left-and-right-sum-differences) |
 | [3665-twisted-mirror-path-count](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/3665-twisted-mirror-path-count) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -278,6 +279,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [1952-three-divisors](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Design
 |  |
 | ------- |
