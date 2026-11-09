@@ -88,6 +88,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1991-find-the-middle-index-in-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2090-k-radius-subarray-averages](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/2090-k-radius-subarray-averages) |
 | [2574-left-and-right-sum-differences](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/2574-left-and-right-sum-differences) |
 | [3665-twisted-mirror-path-count](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/3665-twisted-mirror-path-count) |
@@ -187,6 +188,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1710-maximum-units-on-a-truck](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1710-maximum-units-on-a-truck) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -342,6 +344,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Newton's Method
 |  |
 | ------- |
