@@ -92,6 +92,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [2090-k-radius-subarray-averages](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/2090-k-radius-subarray-averages) |
 | [2574-left-and-right-sum-differences](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/2574-left-and-right-sum-differences) |
 | [3665-twisted-mirror-path-count](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Hash Table
 |  |
@@ -210,6 +211,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [1049-last-stone-weight-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1049-last-stone-weight-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1137-n-th-tribonacci-number) |
 | [3665-twisted-mirror-path-count](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/3693-climbing-stairs-ii) |
 ## Stack
 |  |
 | ------- |
