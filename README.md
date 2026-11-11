@@ -284,6 +284,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Design
 |  |
 | ------- |
@@ -313,6 +314,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0976-largest-perimeter-triangle](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1710-maximum-units-on-a-truck](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/1710-maximum-units-on-a-truck) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Quicksort
 |  |
 | ------- |
