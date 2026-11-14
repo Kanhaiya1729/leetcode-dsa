@@ -19,6 +19,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -120,6 +121,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0171-excel-sheet-column-number) |
@@ -673,4 +675,8 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
