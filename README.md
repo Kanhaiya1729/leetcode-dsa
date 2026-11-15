@@ -123,6 +123,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 | [0012-integer-to-roman](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0044-wildcard-matching) |
 | [0125-valid-palindrome](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0242-valid-anagram) |
@@ -195,6 +196,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Dynamic Programming
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0070-climbing-stairs) |
@@ -308,6 +310,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 ## Greedy
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0455-assign-cookies) |
@@ -378,6 +381,7 @@ Learn the pattern → Practice the pattern → Recognize the pattern → Build c
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0021-merge-two-sorted-lists) |
+| [0044-wildcard-matching](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0044-wildcard-matching) |
 | [0203-remove-linked-list-elements](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Kanhaiya1729/leetcode-dsa/tree/master/0231-power-of-two) |
